@@ -23,12 +23,5 @@ NOTE :
     1.2 If the user logged one time, we need to re-start the server again (python main.py)
     1.3 If the token is used more than one time, it will be in-valid/expired token, so we need to get the new-token again (/getQR)
     1.4 All the data are in-memory, so on restart it will clear all the data
-    1.5 We can create the new user , using createUser endpoint
-
-
-
-python basics :
-
-1. Flask : python (framework) : learn the basics
-2. sqlite3 : learn the basics
-
+    1.5 We can create the new user , using createUser endpoint.
+    
